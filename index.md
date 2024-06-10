@@ -52,3 +52,6 @@ Best regards,
 
 Vince & Abi      
 
+### P.S. Stata Conference Portland 2024
+- Schedule + agenda (All times Pacific Daylight Time)
+- 10:10 a.m. Thursday, 1 August "Easing the Stata learning curve: Advancements through prompt-based programming" (click on [view](https://www.stata.com/meeting/us24/) for more details)
