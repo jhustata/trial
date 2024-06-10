@@ -50,6 +50,5 @@ Thank you for considering this opportunity to support the next generation of lea
 
 Best regards,
 
-Vince       
-Abi      
+Vince & Abi      
 
