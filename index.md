@@ -1,8 +1,3 @@
-Subject: Invitation to Participate in a Stata Study: Comparing Programming Approaches
-
-Dear Former Students,
-
-We hope this email finds you well. As the term has recently ended, we would like to invite you to `volunteer` in a unique Stata study that aims to benefit future students. Whether you have just graduated or will be continuing at Hopkins next year, your participation would be incredibly valuable.
 
 ### Study Overview
 We are conducting a study to compare two programming approaches:
